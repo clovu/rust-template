@@ -1,8 +1,8 @@
 fn main() -> Result<(), Box<dyn std::error::Error>> {
-  // load env profile
-  dotenv::dotenv()?;
+    // load env profile
+    dotenv::dotenv()?;
 
-  println!("Hello, world!");
+    println!("Hello, world!");
 
-  Ok(())
+    Ok(())
 }
