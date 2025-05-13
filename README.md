@@ -26,21 +26,22 @@ A simple Rust project template to kickstart your development.
 
 2. Install dependencies:
 
-  ```sh
-  cargo build
-  ```
+   ```sh
+   cargo build
+   ```
 
 3. Run the project:
 
-  ```sh
-  cargo run
-  ```
+   ```sh
+   cargo run
+   ```
 
 4. Run tests:
 
-  ```sh
-  cargo test
-  ```
+   ```sh
+   cargo test
+   ```
+
 ## License
 
 MIT License © 2025 [Clover You](https://github.com/clovu)
