@@ -5,4 +5,7 @@
   "rust-analyzer.check.command": "clippy",
   // close inner type hints
   "rust-analyzer.inlayHints.typeHints.enable": false,
+  "cSpell.words": [
+    "dotenv"
+  ],
 }
